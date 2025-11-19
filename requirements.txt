@@ -1,0 +1,2 @@
+# no runtime python dependencies; tests use pytest
+pytest
