@@ -1,0 +1,3 @@
+/.pytest_cache
+/build/.cmake
+/build/CMakeFiles

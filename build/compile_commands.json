@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/stonesun/Git-Repo/Linux-SMART/build",
+  "command": "/usr/lib64/ccache/g++   -g -std=gnu++17 -o CMakeFiles/smart_info.dir/src/smart_info.cpp.o -c /home/stonesun/Git-Repo/Linux-SMART/src/smart_info.cpp",
+  "file": "/home/stonesun/Git-Repo/Linux-SMART/src/smart_info.cpp",
+  "output": "CMakeFiles/smart_info.dir/src/smart_info.cpp.o"
+}
+]
